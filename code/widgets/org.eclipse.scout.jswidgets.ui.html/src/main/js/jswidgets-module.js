@@ -35,6 +35,7 @@
   __include("jswidgets/stringfield/StringFieldForm.js");
   __include("jswidgets/stringfield/StringFormatLookupCall.js");
   __include("jswidgets/tablefield/TableFieldForm.js");
+  __include("jswidgets/tiles/ColorSchemeLookupCall.js");
   __include("jswidgets/tiles/SimpleTile.js");
   __include("jswidgets/tiles/TilesForm.js");
   __include("jswidgets/tablefield/CheckableStyleLookupCall.js");
